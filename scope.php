@@ -1,7 +1,7 @@
 <?php 
 
 //Public
-//Puede ser accedidos desde cualquier parte, ya sea dentro o fuera de nuestra funcion
+//Puede ser accedidos desde cualquier parte, ya sea dentro o fuera de nuestra 
 
 //Protected
 //Puede ser accedidos desde dentro de la clase y otras clases que heredaron, Pero no fuera de esta
