@@ -1,5 +1,5 @@
 <?php 
-$nombre = 'Haland';
+$nombre = 'Juan';
 class Persona {
 	public static $dia = '7 de setiembre';
 		
